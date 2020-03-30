@@ -1,1 +1,1 @@
-python: manage.py runserver
+web: gunicorn gotmilk.wsgi.application
