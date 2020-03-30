@@ -1,1 +1,1 @@
-web: gunicorn gotmilk.wsgi.application
+web: gunicorn gotmilk.wsgi
