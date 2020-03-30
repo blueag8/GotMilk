@@ -1,5 +1,5 @@
 # GotMilk
-# GotMilk
+
 ## Inspiration
 Despite the empty shelves as a result of panic buying, there is no shortage of food and essentials.
 However, there are people who may now realise they might have bought more than they need.....
